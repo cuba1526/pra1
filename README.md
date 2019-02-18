@@ -1,5 +1,5 @@
 # a really test
 
-- a test project
-- a simple game
-- sorry for being late.
+-   a test project
+-   a simple game
+-   sorry for being late.
